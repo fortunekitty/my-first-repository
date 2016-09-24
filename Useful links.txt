@@ -1,0 +1,18 @@
+useful links 
+http://flexboxfroggy.com/ 
+https://joind.in/
+
+Q&A for mentoring 
+understanding div tag
+
+ls: list files in directory
+ls -a: list all files in directory (including hidden files). 
+"-a" is a flag that signifiy we want to run the command in certain setting.
+mkdir "folder name": create directory
+cd "folder name": change directory
+git init: initialise a new Git instance
+single dot(.) current directory
+double dot (..) directory above
+cd .. change to directory above
+cd .git move to git directory
+git status current status of repository (should be not in git directory when run it)
